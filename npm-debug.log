@@ -8,8 +8,8 @@
 7 silly lifecycle cdpsfy@0.0.0~prestart: no script for prestart, continuing
 8 info lifecycle cdpsfy@0.0.0~start: cdpsfy@0.0.0
 9 verbose lifecycle cdpsfy@0.0.0~start: unsafe-perm in lifecycle true
-10 verbose lifecycle cdpsfy@0.0.0~start: PATH: /usr/local/lib/node_modules/npm/bin/node-gyp-bin:/home/usuario/Documentos/ETSIT/CDPS/CDPSfy-s4/node_modules/.bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games
-11 verbose lifecycle cdpsfy@0.0.0~start: CWD: /home/usuario/Documentos/ETSIT/CDPS/CDPSfy-s4
+10 verbose lifecycle cdpsfy@0.0.0~start: PATH: /usr/local/lib/node_modules/npm/bin/node-gyp-bin:/home/usuario/Documentos/ETSIT/CDPS/CDPSfy-s1-s2-s3/node_modules/.bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games
+11 verbose lifecycle cdpsfy@0.0.0~start: CWD: /home/usuario/Documentos/ETSIT/CDPS/CDPSfy-s1-s2-s3
 12 silly lifecycle cdpsfy@0.0.0~start: Args: [ '-c', 'node ./bin/www' ]
 13 silly lifecycle cdpsfy@0.0.0~start: Returned: code: 8  signal: null
 14 info lifecycle cdpsfy@0.0.0~start: Failed to exec start script
@@ -22,7 +22,7 @@
 15 verbose stack     at maybeClose (child_process.js:743:16)
 15 verbose stack     at Process.ChildProcess._handle.onexit (child_process.js:810:5)
 16 verbose pkgid cdpsfy@0.0.0
-17 verbose cwd /home/usuario/Documentos/ETSIT/CDPS/CDPSfy-s4
+17 verbose cwd /home/usuario/Documentos/ETSIT/CDPS/CDPSfy-s1-s2-s3
 18 error Linux 4.2.0-23-generic
 19 error argv "node" "/usr/local/bin/npm" "start"
 20 error node v0.10.25
